@@ -5,7 +5,7 @@
 
 ---
 ## Web App Demo: 
-A recorded demonstration of the model’s deployment is available at: https://drive.google.com/file/d/1m5dRZHkr3Wcp80fczSaOmTZIqYCoUEm3/view?usp=drive_link
+A recorded demonstration of the model’s deployment is available at: https://drive.google.com/file/d/1lkhG0n6sl0EJkXKrKg8DGS41LR1-K8Sn/view?usp=drive_link
 ## 🌟 Features
 - ✅ Upload **Brain MRI** or **Kidney CT Scan** images
 - ✅ Automatic **image preprocessing** (resizing, normalization)
