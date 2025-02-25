@@ -3,6 +3,9 @@
 ## 🚀 Overview
  MediScan AI has been developed as an intelligent medical assistant that analyzes medical images using deep learning techniques. The system automates disease classification, assisting healthcare professionals in making accurate and timely diagnoses. MediScan AI aims to improve access to advanced diagnostic support, especially in remote and under-resourced areas. This is **FastAPI-based web service** processes uploaded images and predicts disease categories using trained deep learning models.
 
+---
+## Web App Demo: 
+A recorded demonstration of the model’s deployment is available at: https://drive.google.com/file/d/1m5dRZHkr3Wcp80fczSaOmTZIqYCoUEm3/view?usp=drive_link
 ## 🌟 Features
 - ✅ Upload **Brain MRI** or **Kidney CT Scan** images
 - ✅ Automatic **image preprocessing** (resizing, normalization)
