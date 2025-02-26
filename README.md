@@ -39,6 +39,12 @@ A recorded demonstration of the model’s deployment is available at: https://dr
 
 ---
 
+## 📂 Trained Models
+- **Brain MRI Detection** (https://drive.google.com/file/d/114V2aWEpmGJ5zyu6hNgrsGlS81sI40xJ/view?usp=sharing)
+- **Kidney CT Scan Detection** (https://drive.google.com/file/d/1tdPkbwpj0cf9C52cfY9blKUuOKafT1WL/view?usp=sharing)
+
+---
+
 ## 📂 Dataset Used
 - **Brain Tumor MRI dataset** (https://www.kaggle.com/datasets/rm1000/brain-tumor-mri-scans)
 - **Kidney CT Scan dataset** (https://www.kaggle.com/datasets/anima890/kidney-ct-scan/data)
