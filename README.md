@@ -50,3 +50,24 @@ A recorded demonstration of the model’s deployment is available at: https://dr
 - **Kidney CT Scan dataset** (https://www.kaggle.com/datasets/anima890/kidney-ct-scan/data)
 
 ---
+## 📊 Model Training Results
+- **Brain Tumor Classification**
+  - **Train/Val/Test Split:** 70% / 15% / 15%
+  - **Epochs:** 7
+  - **Validation Accuracy:** 98.68%
+  - **Test Accuracy:** 98.97%
+
+- **Kidney CT Scan Classification**
+  - **Train/Val/Test Split:** 70% / 15% / 15%
+  - **Epochs:** 7
+  - **Validation Accuracy:** 99.84%
+  - **Test Accuracy:** 99.68%
+
+
+
+
+
+
+  
+
+ 
