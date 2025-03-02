@@ -1,7 +1,7 @@
-# 🧠 MediScan AI(Brain MRI & 🩺 Kidney CT Scan Classification API)
+# 🧠 MediScan AI(Brain MRI & 🩺 Kidney CT Scan Classification)
 
 ## 🚀 Overview
- MediScan AI has been developed as an intelligent medical assistant that analyzes medical images using deep learning techniques. The system automates disease classification, assisting healthcare professionals in making accurate and timely diagnoses. MediScan AI aims to improve access to advanced diagnostic support, especially in remote and under-resourced areas. This is **Flask-based web service** processes uploaded images and predicts disease categories using trained deep learning models.
+MediScan AI has been developed as an intelligent medical assistant that analyzes medical images using deep learning techniques. The system automates disease classification, assisting healthcare professionals in making accurate and timely diagnoses. MediScan AI aims to improve access to advanced diagnostic support, especially in remote and under-resourced areas. This is **Flask-based web service** processes uploaded images and predicts disease categories using trained deep learning models.
 
 ---
 ## Web App Demo: 
@@ -27,7 +27,6 @@ A recorded demonstration of the model’s deployment is available at: https://dr
 | **PIL (Pillow)**  | Image processing library                    |
 | **NumPy & OpenCV**| Image preprocessing and manipulation        |
 | **Google Colab**  | Model training environment                  |
-| **GitHub**        | Version control and project hosting         |
 
 
 ## 🔬 Model Details
