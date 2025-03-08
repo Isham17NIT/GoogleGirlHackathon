@@ -26,6 +26,7 @@ A recorded demonstration of the model’s deployment is available at: https://dr
 | **Swin Transformer** | Model architecture for image classification |
 | **PIL (Pillow)**  | Image processing library                    |
 | **NumPy & OpenCV**| Image preprocessing and manipulation        |
+| **Seaborn**       | Data Visualization(for plotting graphs)     |
 | **Google Colab**  | Model training environment                  |
 
 
