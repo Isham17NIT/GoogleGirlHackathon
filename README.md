@@ -1,7 +1,7 @@
 # 🧠 MediScan AI(Brain MRI & 🩺 Kidney CT Scan Classification)
 
 ## 🚀 Overview
-MediScan AI has been developed as an intelligent medical assistant that analyzes medical images using deep learning techniques. The system automates disease classification, assisting healthcare professionals in making accurate and timely diagnoses. MediScan AI aims to improve access to advanced diagnostic support, especially in remote and under-resourced areas. This is **Flask-based web service** processes uploaded images and predicts disease categories using trained deep learning models.
+MediScan AI has been developed as an intelligent medical assistant that analyzes medical images using deep learning techniques. The system automates disease classification, thus enabling healthcare professionals to make accurate and timely diagnoses. It aims to improve access to advanced diagnostic support, especially in remote and under-resourced areas. This is a **Flask-based web service** that processes uploaded images and predicts disease categories using fine-tuned Swin Transformer model.
 
 ---
 ## Web App Demo: 
@@ -16,17 +16,17 @@ A recorded demonstration of the model’s deployment is available at: https://dr
 
 ## 🛠️ Tech Stack Used  
 
-| Technology         | Purpose                                      |
-|--------------------|----------------------------------------------|
-| **Python**        | Main programming language                   |
-| **Flask**         | Web framework for API development           |
-| **React.js**      | Frontend framework for building the UI      |
-| **CSS**           | Styling the frontend                        |
-| **PyTorch**       | Deep learning framework for model training  |
+| Technology           | Purpose                                      |
+|--------------------  |----------------------------------------------|
+| **Python**           | Main programming language                   |
+| **Flask**            | Web framework for API development           |
+| **React**            | Frontend framework for building the UI      |
+| **CSS**              | Styling the frontend                        |
+| **PyTorch**          | Deep learning framework for model training  |
 | **Swin Transformer** | Model architecture for image classification |
-| **PIL (Pillow)**  | Image processing library                    |
-| **NumPy & OpenCV**| Image preprocessing and manipulation        |
-| **Seaborn**       | Data Visualization(for plotting graphs)     |
+| **PIL & TorchVision**| Image processing library                    |
+| **Scikit-learn**| Computing Evaluation metrics        |
+| **Seaborn & Matplotlib**| Data Visualization     |
 | **Google Colab**  | Model training environment                  |
 
 
